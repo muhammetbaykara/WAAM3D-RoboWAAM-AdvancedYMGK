@@ -1,1 +1,1 @@
-# WAAM3D-RoboWAAM-Advanced-YMGK-
+# WAAM3D-RoboWAAM Advanced (YMGK)
