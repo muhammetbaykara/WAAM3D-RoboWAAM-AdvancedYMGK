@@ -1,4 +1,4 @@
-# Kapsamlı SWOT Analizi ve Siber-Fiziksel Güvenlik Raporu: RoboWAAM® Advanced Robotik Tel Ark Eklemeli İmalat (WAAM) Sistemi
+# SWOT Analizi ve Siber-Fiziksel Güvenlik Raporu: RoboWAAM® Advanced Robotik Tel Ark Eklemeli İmalat (WAAM) Sistemi
 
 > **Yasal Uyarı:** Bu belge bir eğitim çıktısı ve teknik analiz çalışmasıdır; resmî denetim, uygunluk değerlendirmesi veya belgelendirme niteliği taşımaz ve CE/mevzuat uygunluğu garantisi vermez. Makineye ilişkin veriler kamuya açık üretici dokümantasyonuna dayanmakta olup, siber güvenlik ve emniyet kararları üreticinin resmi risk değerlendirmeleriyle doğrulanmalıdır.
 
